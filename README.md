@@ -2,6 +2,6 @@
 
 # screenshots
 
-[!screenshot1](Screenshot1.png)
+![screenshot1](Screenshot1.png)
 
-[!screenshot2](Screenshot2.png)
+![screenshot2](Screenshot2.png)
